@@ -1,0 +1,8 @@
+D:\BookGame\OperatorsVarieble\OperatorsVarieble\bin\Debug\OperatorsVarieble.exe.config
+D:\BookGame\OperatorsVarieble\OperatorsVarieble\bin\Debug\OperatorsVarieble.exe
+D:\BookGame\OperatorsVarieble\OperatorsVarieble\bin\Debug\OperatorsVarieble.pdb
+D:\BookGame\OperatorsVarieble\OperatorsVarieble\obj\Debug\OperatorsVarieble.csproj.AssemblyReference.cache
+D:\BookGame\OperatorsVarieble\OperatorsVarieble\obj\Debug\OperatorsVarieble.csproj.CoreCompileInputs.cache
+D:\BookGame\OperatorsVarieble\OperatorsVarieble\obj\Debug\OperatorsVarieble.exe
+D:\BookGame\OperatorsVarieble\OperatorsVarieble\obj\Debug\OperatorsVarieble.pdb
+D:\BookGame\OperatorsVarieble\OperatorsVarieble\obj\Debug\OperatorsVarieble.exe.config
