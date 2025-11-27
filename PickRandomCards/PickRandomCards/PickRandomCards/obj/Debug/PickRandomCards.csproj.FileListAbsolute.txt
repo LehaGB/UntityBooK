@@ -1,0 +1,8 @@
+D:\BookGame\PickRandomCards\PickRandomCards\PickRandomCards\bin\Debug\PickRandomCards.exe.config
+D:\BookGame\PickRandomCards\PickRandomCards\PickRandomCards\bin\Debug\PickRandomCards.exe
+D:\BookGame\PickRandomCards\PickRandomCards\PickRandomCards\bin\Debug\PickRandomCards.pdb
+D:\BookGame\PickRandomCards\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.csproj.AssemblyReference.cache
+D:\BookGame\PickRandomCards\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.csproj.CoreCompileInputs.cache
+D:\BookGame\PickRandomCards\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.exe
+D:\BookGame\PickRandomCards\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.pdb
+D:\BookGame\PickRandomCards\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.exe.config
